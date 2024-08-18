@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, welcome to my profile</h1>
 <h3 align="center">  MIAGE student </h3>
 <div align ="center">
+<p> :pushpin: Last project : Lifelines </p>
 <p> :pushpin: Last accomplishment : HoobyZoo </p>
  <p align ="center">⌛ Spent time: <img  src ="https://wakatime.com/badge/github/kebciSofiane/HobbyZooApp.svg"></p>
 <p> 👨‍💻 All of my projects are available at : https://clement-fresnel.netlify.app/ <p/>
